@@ -6,6 +6,7 @@ float CNTP, P_molecular, mol, x, temp, v, vol1, t, t1, V_Oxigenio, gas, volume, 
 
 main(){
 	//CALCULO 1.10
+	// Calculo
 	puts("						CALCULO 1.10");
 	P_molecular = 35.5;
 	printf("Informe o volume ocupado nas CNTP:");
