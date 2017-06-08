@@ -96,11 +96,5 @@ main(){
 	scanf("%f",&pressao2);
 	v1 = pressao * volume / pressao2;
 	printf("%.0f Litros.\n",v1);
-	
-	
-	
-	
-	
-	
-	
+	//teste	
 }
